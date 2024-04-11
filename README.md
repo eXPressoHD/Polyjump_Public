@@ -12,7 +12,5 @@ Weather also plays a role, in some levels there is an impairment of visibility o
 <div align="center">
   <a href="https://www.youtube.com/watch?v=aDhXOiCL5cI"><img src="https://img.youtube.com/vi/aDhXOiCL5cI/0.jpg" alt="IMAGE ALT TEXT"></a>
 </div>
-[![Polyjump](https://img.youtube.com/vi/aDhXOiCL5cI/0.jpg)](https://www.youtube.com/watch?v=aDhXOiCL5cI)
-
 
 ![Unbenanntes-Video-–-Mit-Clipchamp-erstellt-_17_](https://github.com/eXPressoHD/Polyjump_Public/assets/14182407/591e0a32-3603-4995-9508-9f7d4e5dd6a0)
