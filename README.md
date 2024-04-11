@@ -7,6 +7,8 @@ The principle is simple: jump from platform to platform and try to reach the fin
 As the game progresses, the player learns more skills and can, for example, boost forward, swing, shoot away with cannons and much more. 
 Weather also plays a role, in some levels there is an impairment of visibility or even wind, which steers the player in certain directions.
 
+**To protect the content, this repo "only" contains the relevant C# scripts for gameplay mechanics, camera, Steam integration and similar systems.**
+
 
 
 <div align="center">
