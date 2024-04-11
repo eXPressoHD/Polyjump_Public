@@ -7,4 +7,8 @@ The principle is simple: jump from platform to platform and try to reach the fin
 As the game progresses, the player learns more skills and can, for example, boost forward, swing, shoot away with cannons and much more. 
 Weather also plays a role, in some levels there is an impairment of visibility or even wind, which steers the player in certain directions.
 
+Trailer:
 [![Polyjump](https://img.youtube.com/vi/aDhXOiCL5cI/0.jpg)](https://www.youtube.com/watch?v=aDhXOiCL5cI)
+
+
+![Unbenanntes-Video-–-Mit-Clipchamp-erstellt-_17_](https://github.com/eXPressoHD/Polyjump_Public/assets/14182407/591e0a32-3603-4995-9508-9f7d4e5dd6a0)
