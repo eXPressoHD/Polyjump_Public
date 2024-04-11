@@ -14,6 +14,12 @@ Weather also plays a role, in some levels there is an impairment of visibility o
 </div>
 
 
-![ezgif-3-b5ad51f54e](https://github.com/eXPressoHD/Polyjump_Public/assets/14182407/c88fe4f2-a8ab-4913-ae48-8029495a4483)
 
-![ezgif-3-85e030617b](https://github.com/eXPressoHD/Polyjump_Public/assets/14182407/8e91e5a2-0ba6-4fc0-8068-e45660b003b8)
+<p align="center">
+  <img src="https://github.com/eXPressoHD/Polyjump_Public/assets/14182407/c88fe4f2-a8ab-4913-ae48-8029495a4483" alt="animated" />
+</p>
+
+<p align="center">
+  <img src="[demo.gif](https://github.com/eXPressoHD/Polyjump_Public/assets/14182407/8e91e5a2-0ba6-4fc0-8068-e45660b003b8)" alt="animated" />
+</p>
+
