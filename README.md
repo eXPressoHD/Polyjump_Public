@@ -20,6 +20,6 @@ Weather also plays a role, in some levels there is an impairment of visibility o
 </p>
 
 <p align="center">
-  <img src="[demo.gif](https://github.com/eXPressoHD/Polyjump_Public/assets/14182407/8e91e5a2-0ba6-4fc0-8068-e45660b003b8)" alt="animated" />
+  <img src="https://github.com/eXPressoHD/Polyjump_Public/assets/14182407/8e91e5a2-0ba6-4fc0-8068-e45660b003b8" alt="animated" />
 </p>
 
